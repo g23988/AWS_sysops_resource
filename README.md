@@ -345,5 +345,5 @@ If he can read all buckets then he can read objects from the bucket named ‘cor
 ------------------------------------
 
 ## 資源
--- [Security Best Practice whitepaper](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
--- [Intro_to_AWS_Security](https://d0.awsstatic.com/whitepapers/Security/Intro_to_AWS_Security.pdf)
+ - [Security Best Practice whitepaper](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
+ - [Intro_to_AWS_Security](https://d0.awsstatic.com/whitepapers/Security/Intro_to_AWS_Security.pdf)

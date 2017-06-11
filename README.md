@@ -1,4 +1,7 @@
 
+# AWS_sysops_resource
+for AWS Certified Sysops - Associate exam
+
 
 ## 重點節錄
 

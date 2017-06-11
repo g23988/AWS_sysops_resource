@@ -56,6 +56,12 @@ In particular, the Direct Connect Overview and Service Highlights seem to suppor
 "Direct Connect... can reduce your network costs, increase bandwidth throughput, and provide a more consistent network experience than Internet-based connections."
 
 
+問：使用 AWS Direct Connect 和私有網路連接有什麼好處？
+
+
+在許多情況下，私有網路連接可以降低成本、提高頻寬，還有提供比網際網路連接更為一致的網路體驗。
+
+
 ----------------------------------
 
 

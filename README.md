@@ -35,6 +35,28 @@ Intro to AWS Security is also quite good.
 ---------------------------------------------------
 
 
+```
+An organization has established an Internet-based VPN connection between their on-premises data center and AWS. They are considering migrating from VPN to AWS DirectConnect.
+
+Which operational concern should drive an organization to consider switching from an Internet-based VPN connection to AWS DirectConnect?
+
+A. AWS DirectConnect provides greater redundancy than an Internet-based VPN connection.
+
+B. AWS DirectConnect provides greater resiliency than an Internet-based VPN connection.
+
+C. AWS DirectConnect provides greater bandwidth than an Internet-based VPN connection.
+
+D. AWS DirectConnect provides greater control of network provider selection than an Internet-based VPN connection.
+```
+> C
+
+In particular, the Direct Connect Overview and Service Highlights seem to support your conclusion that the correct response is C:
+
+
+"Direct Connect... can reduce your network costs, increase bandwidth throughput, and provide a more consistent network experience than Internet-based connections."
+
+
+----------------------------------
 
 
 ```
